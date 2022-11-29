@@ -1,0 +1,2 @@
+# yocto-playground
+learning yocto
